@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Vansh. I am an aspiring sixth form student from the UK, who is planning to move to the United States in the near future, whose hopes is to get enrolled in the most prestigious universities in the entire world!
+
+
 <!--
 **vanshxd2109/vanshxd2109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
